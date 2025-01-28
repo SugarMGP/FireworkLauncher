@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fireworklauncher:block/firework_launcher"
+    }
+  }
+}

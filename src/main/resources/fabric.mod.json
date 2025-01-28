@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "fireworklauncher",
+  "version": "${version}",
+  "name": "FireworkLauncher",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/fireworklauncher/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "io.github.sugarmgp.fireworklauncher.client.FireworkLauncherClient"
+    ],
+    "main": [
+      "io.github.sugarmgp.fireworklauncher.FireworkLauncher"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

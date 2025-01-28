@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "fireworklauncher:block/firework_launcher"
+  }
+}
