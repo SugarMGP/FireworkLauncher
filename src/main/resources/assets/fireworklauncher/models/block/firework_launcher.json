@@ -1,6 +1,9 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/orientable",
   "textures": {
-    "all": "fireworklauncher:block/firework_launcher"
+    "top": "minecraft:block/dispenser_front_vertical",
+    "side": "fireworklauncher:block/fireworklauncher_side",
+    "front": "fireworklauncher:block/fireworklauncher_side",
+    "bottom": "minecraft:block/furnace_top"
   }
 }

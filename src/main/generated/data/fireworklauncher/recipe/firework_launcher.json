@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "b": {
+      "item": "minecraft:cobblestone"
+    },
+    "f": {
+      "item": "minecraft:dispenser"
+    },
+    "i": {
+      "item": "minecraft:gunpowder"
+    }
+  },
+  "pattern": [
+    "b b",
+    "bib",
+    "bfb"
+  ],
+  "result": {
+    "count": 1,
+    "id": "fireworklauncher:firework_launcher"
+  }
+}
